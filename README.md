@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LinkPulse — URL Shortener & Analytics Platform
 **Team Code Pheonix | Hackathon-ready full-stack project**
 
@@ -120,3 +121,7 @@ CSV headers: `destination_url,alias,campaign,tags,expires_at,click_cap,password`
 - **SQLite by default** with a MySQL schema and optional `DATABASE_URL` configuration.
 
 The project does not claim to provide live malware reputation checks, team RBAC, billing, or production-grade bot detection. Those require external integrations and additional deployment hardening.
+=======
+# linkpulse-code-pheonix
+Url-shortener, fastapi, react, vite, python, analytics, qr-code, sqlalchemy, hackathon, link-tracking
+>>>>>>> 72ea85d73aff9f0085fed35487ee8e91e55ca9c6
