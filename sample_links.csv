@@ -1,0 +1,4 @@
+destination_url,alias,campaign,tags,expires_at,click_cap,password
+https://www.python.org,python-home,Developer Week,"python,community",,,
+https://react.dev,react-docs,Developer Week,"react,docs",,,
+https://fastapi.tiangolo.com,api-guide,Product Launch,"api,backend",,100,
